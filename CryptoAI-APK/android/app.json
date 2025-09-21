@@ -1,0 +1,9 @@
+{
+  "name": "CryptoAI",
+  "displayName": "CryptoAI - 数字货币行情",
+  "extra": {
+    "eas": {
+      "projectId": "41f5010f-f9d4-4f33-9839-88207452f6b7"
+    }
+  }
+}
